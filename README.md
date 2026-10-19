@@ -1,0 +1,2 @@
+# premium-gold-stamp-001-gold-foil-stamping-temperature
+Tired of wasting expensive gold foil on inconsistent stamping results because you can't remember the exact temperature and dwell time from your last successful run?  The Gold Foil Stamping Temperature and Dwell Log eliminates the guesswork by giving you a dedicated Notion database to record every critical parameter for each job. With at-a-glance hi
